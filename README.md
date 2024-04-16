@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iKAN2025
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Python, machine learning
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
